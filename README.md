@@ -35,6 +35,8 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
+## OUTPUT
+![5 2 Drawing v1_page-0001](https://github.com/Jerushli/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/120041243/400c1318-dfdd-442f-a0a7-fc691ac2c33f)
 
 
 
